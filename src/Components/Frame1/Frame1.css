@@ -52,6 +52,7 @@
         align-items: center;
         padding-left: 12px;
         padding-right: 12px;
+        max-width: 100%;
     }
     .image4, .image6, .image3, .image5 {
         width: 180px;
@@ -64,8 +65,8 @@
     }
     .content__1, .content__2 {
 
-        padding-left: 1px;
-        padding-right: 1px;
+        padding-left: 10px;
+        padding-right: 10px;
         
     }
 }

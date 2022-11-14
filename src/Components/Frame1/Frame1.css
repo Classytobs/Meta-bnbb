@@ -120,6 +120,7 @@ input {
     max-height: 54px;
     padding-left: 12px;
     padding-right: 12px;
+    max-width: 100%;
 }
 
 .image4, .image6, .image3, .image5 {

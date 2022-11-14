@@ -50,6 +50,8 @@
         display: flex;
         justify-content: center;
         align-items: center;
+        padding-left: 12px;
+        padding-right: 12px;
     }
     .image4, .image6, .image3, .image5 {
         width: 180px;
@@ -59,6 +61,12 @@
         justify-content: center;
         align-items: center;
         margin-top: 10px;
+    }
+    .content__1, .content__2 {
+
+        padding-left: 1px;
+        padding-right: 1px;
+        
     }
 }
 
@@ -70,16 +78,13 @@ span {
     line-height:300%;
     height: 120px;
     color: #434343;
-    padding-left: 14px;
-    padding-right: 14px;
 }
 .content__2{
     font-size: 10px;
     line-height: 35px;
     color: #434343;
     height: 102px;
-    padding-left: 14px;
-    padding-right: 14px;
+
 }
 input {
     background: rgba(247, 247, 247, 0.1);
@@ -118,9 +123,6 @@ input {
 .input__block {
     display: inline-flex;
     max-height: 54px;
-    padding-left: 14px;
-    padding-right: 14px;
-    max-width: 100%;
 }
 
 .image4, .image6, .image3, .image5 {

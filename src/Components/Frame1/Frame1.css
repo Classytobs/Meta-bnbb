@@ -50,8 +50,8 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        padding-left: 12px;
-        padding-right: 12px;
+        padding-left: 15px;
+        padding-right: 15px;
         max-width: 100%;
     }
     .image4, .image6, .image3, .image5 {
@@ -65,8 +65,8 @@
     }
     .content__1, .content__2 {
 
-        padding-left: 10px;
-        padding-right: 10px;
+        padding-left: 14px;
+        padding-right: 14px;
         
     }
 }

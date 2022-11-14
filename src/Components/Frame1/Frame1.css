@@ -70,17 +70,16 @@ span {
     line-height:300%;
     height: 120px;
     color: #434343;
-    padding-left: 14px;
-    padding-right: 14px;
+    padding-left: 12px;
+    padding-right: 12px;
 }
 .content__2{
     font-size: 10px;
     line-height: 35px;
     color: #434343;
     height: 102px;
-    padding-left: 14px;
-    padding-right: 14px;
-    max-width: 100%;
+    padding-left: 12px;
+    padding-right: 12px;
 }
 input {
     background: rgba(247, 247, 247, 0.1);
@@ -119,6 +118,8 @@ input {
 .input__block {
     display: inline-flex;
     max-height: 54px;
+    padding-left: 12px;
+    padding-right: 12px;
 }
 
 .image4, .image6, .image3, .image5 {
